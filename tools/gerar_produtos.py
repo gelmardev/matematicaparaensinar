@@ -18,7 +18,7 @@ def achar_imagens(pasta):
     base = pasta.rstrip('/')
     imgs = []
     if os.path.isdir(base):
-        arqs = sorted(os.listdir(base), key=lambda n: (not n.startswith('capa'), n))
+        arqs = sorted(os.listdir(base), key=lambda n: (not n.startswith('titulo'), n))
         imgs = [f'{base}/{a}' for a in arqs if a.lower().endswith(EXTS)]
     else:
         for e in EXTS:
@@ -42,21 +42,21 @@ def resumo(blocos):
 # posições: capa (sobre a capa) | titulo (ao lado do nome) | conteudo (junto à lista) | cta (faixa final)
 BONECAS = {
     'maquina-da-funcao': ('boneca-teve-uma-ideia', 'titulo'),
-    'plano-aula-quadrados-perfeitos-tampinhas': ('boneca-animada', 'conteudo'),
-    'moldes-solidos-geometricos': ('boneca-apontando', 'capa'),
-    'resumo-divisores': ('boneca-pensando', 'cta'),
+    'plano-aula-quadrados-perfeitos-tampinhas': ('boneca-animada', 'titulo'),
+    'moldes-solidos-geometricos': ('boneca-apontando', 'titulo'),
+    'resumo-divisores': ('boneca-pensando', 'titulo'),
     'resumo-introducao-estudo-funcoes': ('boneca-confusa', 'titulo'),
-    'resumo-funcao-afim': ('boneca-confiante', 'capa'),
-    'funcao-quadratica': ('boneca-surpresa', 'conteudo'),
-    'resumo-funcao-exponencial': ('boneca-olhando-lado', 'cta'),
+    'resumo-funcao-afim': ('boneca-confiante', 'titulo'),
+    'funcao-quadratica': ('boneca-surpresa', 'titulo'),
+    'resumo-funcao-exponencial': ('boneca-olhando-lado', 'titulo'),
     'resumo-funcao-modular': ('boneca-desconfiada', 'titulo'),
-    'resumo-teoria-conjuntos': ('boneca-rindo', 'capa'),
+    'resumo-teoria-conjuntos': ('boneca-rindo', 'titulo'),
 }
 
 def gerar_paginas(produtos):
     modelo = open('produtos/_template.html', encoding='utf-8').read()
     for p in produtos:
-        boneca, pos = BONECAS.get(p['slug'], ('boneca-neutra-sorrindo', 'cta'))
+        boneca, pos = BONECAS.get(p['slug'], ('boneca-neutra-sorrindo', 'titulo'))
         if not os.path.isfile(f'imagens/boneca/{boneca}.png'):
             print('AVISO: boneca ausente:', boneca)
         desc = html.escape(p['resumo'], quote=True)

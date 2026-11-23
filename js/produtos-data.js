@@ -3,9 +3,9 @@ window.PRODUTOS = [
  {
   "slug": "maquina-da-funcao",
   "nome": "Moldes e Atividades - Máquina da Função",
-  "capa": "imagens/produtos/maquina-da-funcao.jpeg",
+  "capa": "imagens/produtos/maquina-da-funcao.png",
   "imagens": [
-   "imagens/produtos/maquina-da-funcao.jpeg"
+   "imagens/produtos/maquina-da-funcao.png"
   ],
   "link": "https://pay.hotmart.com/T107414225G",
   "resumo": "A Máquina da Função é um recurso pedagógico prático e visual que pode ser utilizado desde o ensino das operações matemáticas básicas até a introdução e exploração do estudo das…",
@@ -126,9 +126,9 @@ window.PRODUTOS = [
  {
   "slug": "resumo-divisores",
   "nome": "Resumo Visual - Divisores",
-  "capa": "imagens/produtos/resumo-divisores.jpeg",
+  "capa": "imagens/produtos/resumo-divisores.png",
   "imagens": [
-   "imagens/produtos/resumo-divisores.jpeg"
+   "imagens/produtos/resumo-divisores.png"
   ],
   "link": "https://pay.hotmart.com/T108416594R",
   "resumo": "Aprenda sobre Divisores de forma prática e visual!",
@@ -182,9 +182,9 @@ window.PRODUTOS = [
  {
   "slug": "resumo-introducao-estudo-funcoes",
   "nome": "Resumo Visual - Introdução ao Estudo de Funções",
-  "capa": "imagens/produtos/resumo-introducao-estudo-funcoes.jpeg",
+  "capa": "imagens/produtos/resumo-introducao-estudo-funcoes.png",
   "imagens": [
-   "imagens/produtos/resumo-introducao-estudo-funcoes.jpeg"
+   "imagens/produtos/resumo-introducao-estudo-funcoes.png"
   ],
   "link": "https://pay.hotmart.com/L108178225X",
   "resumo": "Aprenda sobre Funções de forma prática e visual!",
@@ -233,9 +233,9 @@ window.PRODUTOS = [
  {
   "slug": "resumo-funcao-afim",
   "nome": "Resumo Visual - Função Afim",
-  "capa": "imagens/produtos/resumo-funcao-afim.jpeg",
+  "capa": "imagens/produtos/resumo-funcao-afim.png",
   "imagens": [
-   "imagens/produtos/resumo-funcao-afim.jpeg"
+   "imagens/produtos/resumo-funcao-afim.png"
   ],
   "link": "https://pay.hotmart.com/W108390855V",
   "resumo": "Aprenda e revise Função Afim de forma prática e visual!",
@@ -291,9 +291,9 @@ window.PRODUTOS = [
  {
   "slug": "funcao-quadratica",
   "nome": "Resumo Visual - Função Quadrática",
-  "capa": "imagens/produtos/funcao-quadratica.jpeg",
+  "capa": "imagens/produtos/funcao-quadratica.png",
   "imagens": [
-   "imagens/produtos/funcao-quadratica.jpeg"
+   "imagens/produtos/funcao-quadratica.png"
   ],
   "link": "https://pay.hotmart.com/Y108391249G",
   "resumo": "Aprenda e revise os principais conceitos de Função Quadrática com um material visual, organizado e objetivo!",
@@ -343,9 +343,9 @@ window.PRODUTOS = [
  {
   "slug": "resumo-funcao-exponencial",
   "nome": "Resumo Visual - Função Exponencial",
-  "capa": "imagens/produtos/resumo-funcao-exponencial.jpeg",
+  "capa": "imagens/produtos/resumo-funcao-exponencial.png",
   "imagens": [
-   "imagens/produtos/resumo-funcao-exponencial.jpeg"
+   "imagens/produtos/resumo-funcao-exponencial.png"
   ],
   "link": "https://pay.hotmart.com/A108407044A",
   "resumo": "Revise Matemática de forma prática e visual!",
@@ -396,9 +396,9 @@ window.PRODUTOS = [
  {
   "slug": "resumo-funcao-modular",
   "nome": "Resumo Visual - Função Modular",
-  "capa": "imagens/produtos/resumo-funcao-modular.jpeg",
+  "capa": "imagens/produtos/resumo-funcao-modular.png",
   "imagens": [
-   "imagens/produtos/resumo-funcao-modular.jpeg"
+   "imagens/produtos/resumo-funcao-modular.png"
   ],
   "link": "https://pay.hotmart.com/J108391414N",
   "resumo": "Aprenda e revise os principais conceitos de Função Modular com um material visual, organizado e objetivo!",
@@ -448,9 +448,9 @@ window.PRODUTOS = [
  {
   "slug": "resumo-teoria-conjuntos",
   "nome": "Resumo Visual - Teoria dos Conjuntos e Conjuntos Numéricos",
-  "capa": "imagens/produtos/resumo-teoria-conjuntos.jpeg",
+  "capa": "imagens/produtos/resumo-teoria-conjuntos.png",
   "imagens": [
-   "imagens/produtos/resumo-teoria-conjuntos.jpeg"
+   "imagens/produtos/resumo-teoria-conjuntos.png"
   ],
   "link": "https://pay.hotmart.com/A108390102R",
   "resumo": "Revise Matemática de forma prática e visual!",

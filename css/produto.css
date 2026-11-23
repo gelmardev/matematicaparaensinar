@@ -42,8 +42,8 @@
 /* Boneca decorativa (expressão e posição escolhidas por produto, no body da página) */
 .boneca-deco { pointer-events: none; filter: drop-shadow(0 8px 10px rgba(4, 39, 114, .2)); }
 .boneca--capa { position: absolute; width: 34%; right: -8%; bottom: -34px; z-index: 2; }
-.boneca--titulo { position: absolute; width: 92px; right: 0; top: 0; }
-.p-info:has(.boneca--titulo) .p-titulo { padding-right: 90px; }
+.boneca--titulo { position: absolute; width: 110px; right: 0; top: 0; }
+.p-info:has(.boneca--titulo) .p-titulo { padding-right: 108px; }
 .boneca--conteudo { float: right; width: 130px; margin: 0 -6px 6px 14px; }
 
 /* Faixa final */
