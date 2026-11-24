@@ -51,6 +51,7 @@ BONECAS = {
     'resumo-funcao-exponencial': ('boneca-olhando-lado', 'titulo'),
     'resumo-funcao-modular': ('boneca-desconfiada', 'titulo'),
     'resumo-teoria-conjuntos': ('boneca-rindo', 'titulo'),
+    '10-jogos-matematicos': ('boneca-comemorando', 'titulo'),
 }
 
 def gerar_paginas(produtos):

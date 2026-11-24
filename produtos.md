@@ -246,3 +246,36 @@ O Resumo Visual – Teoria de Conjuntos e Conjuntos Numéricos reúne os princip
 - Pronto para imprimir
 
 Ideal para estudantes que desejam revisar os conteúdos e professores que procuram um recurso de apoio para suas aulas.
+
+---
+
+## 11. 10 Jogos Matemáticos para Imprimir
+- Pasta de imagens: imagens/produtos/10-jogos-matematicos/
+- Link de compra: https://pay.hotmart.com/L108635301V
+
+**Descrição:**
+Uma coleção com 10 jogos matemáticos desenvolvidos para trabalhar diferentes conteúdos de Matemática de forma lúdica, dinâmica e interativa.
+
+O material reúne propostas variadas, acompanhadas de orientações que facilitam a preparação e a aplicação das atividades em sala de aula.
+
+**O que você encontrará no material:**
+- 10 jogos matemáticos com propostas variadas;
+- Arquivos preparados para impressão;
+- Orientações sobre como jogar e organizar as atividades;
+- Dicas de uso em sala de aula;
+- Sugestões de variações e adaptações;
+- Habilidades da BNCC relacionadas a cada jogo.
+
+**Jogos incluídos:**
+- Batalha Naval no Plano Cartesiano;
+- Bingo da Tabuada;
+- Corrida ao 100;
+- Dominó das Equações;
+- Dominó de Frações;
+- Duelo dos Sólidos Geométricos;
+- Eu Tenho, Quem Tem? – Multiplicação e Divisão;
+- Pescaria de Números;
+- Trilha das Operações;
+- Jogo da Memória – Fração e Decimal.
+
+Uma coleção de jogos para diversificar as aulas, estimular o raciocínio lógico e proporcionar experiências de aprendizagem mais participativas.

@@ -492,5 +492,63 @@ window.PRODUTOS = [
     "texto": "Ideal para estudantes que desejam revisar os conteúdos e professores que procuram um recurso de apoio para suas aulas."
    }
   ]
+ },
+ {
+  "slug": "10-jogos-matematicos",
+  "nome": "10 Jogos Matemáticos para Imprimir",
+  "capa": "imagens/produtos/10-jogos-matematicos.png",
+  "imagens": [
+   "imagens/produtos/10-jogos-matematicos.png"
+  ],
+  "link": "https://pay.hotmart.com/L108635301V",
+  "resumo": "Uma coleção com 10 jogos matemáticos desenvolvidos para trabalhar diferentes conteúdos de Matemática de forma lúdica, dinâmica e interativa.",
+  "descricao": [
+   {
+    "tipo": "p",
+    "texto": "Uma coleção com 10 jogos matemáticos desenvolvidos para trabalhar diferentes conteúdos de Matemática de forma lúdica, dinâmica e interativa."
+   },
+   {
+    "tipo": "p",
+    "texto": "O material reúne propostas variadas, acompanhadas de orientações que facilitam a preparação e a aplicação das atividades em sala de aula."
+   },
+   {
+    "tipo": "rotulo",
+    "texto": "O que você encontrará no material:"
+   },
+   {
+    "tipo": "ul",
+    "itens": [
+     "10 jogos matemáticos com propostas variadas;",
+     "Arquivos preparados para impressão;",
+     "Orientações sobre como jogar e organizar as atividades;",
+     "Dicas de uso em sala de aula;",
+     "Sugestões de variações e adaptações;",
+     "Habilidades da BNCC relacionadas a cada jogo."
+    ]
+   },
+   {
+    "tipo": "rotulo",
+    "texto": "Jogos incluídos:"
+   },
+   {
+    "tipo": "ul",
+    "itens": [
+     "Batalha Naval no Plano Cartesiano;",
+     "Bingo da Tabuada;",
+     "Corrida ao 100;",
+     "Dominó das Equações;",
+     "Dominó de Frações;",
+     "Duelo dos Sólidos Geométricos;",
+     "Eu Tenho, Quem Tem? – Multiplicação e Divisão;",
+     "Pescaria de Números;",
+     "Trilha das Operações;",
+     "Jogo da Memória – Fração e Decimal."
+    ]
+   },
+   {
+    "tipo": "p",
+    "texto": "Uma coleção de jogos para diversificar as aulas, estimular o raciocínio lógico e proporcionar experiências de aprendizagem mais participativas."
+   }
+  ]
  }
 ];
